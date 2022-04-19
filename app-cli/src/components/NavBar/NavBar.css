@@ -1,0 +1,31 @@
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    color: black;
+}
+
+.menu a {
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.manu a:hover {
+    color: blue;
+}
+
+.titulo {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    left: 0;
+    color: black;
+}
